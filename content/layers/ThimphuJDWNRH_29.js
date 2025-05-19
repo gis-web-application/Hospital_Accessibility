@@ -1,1 +1,0 @@
-var json_ThimphuJDWNRH_29 = {"type":"FeatureCollection","name":"ThimphuJDWNRH_29","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Image":"D:\\Lungten 2025 Final Semester\\CS\\Final\\Styles\\pictures\\TPHU.jpg"},"geometry":{"type":"Point","coordinates":[89.643045099519853,27.463189878564236]}}]}

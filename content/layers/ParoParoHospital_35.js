@@ -1,1 +1,0 @@
-var json_ParoParoHospital_35 = {"type":"FeatureCollection","name":"ParoParoHospital_35","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Image":"D:\\Lungten 2025 Final Semester\\CS\\Final\\Styles\\pictures\\paro.jpg"},"geometry":{"type":"Point","coordinates":[89.408992592928414,27.427857998579949]}}]}

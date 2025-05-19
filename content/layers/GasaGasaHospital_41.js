@@ -1,1 +1,0 @@
-var json_GasaGasaHospital_41 = {"type":"FeatureCollection","name":"GasaGasaHospital_41","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Image":"D:\\Lungten 2025 Final Semester\\CS\\Final\\Styles\\pictures\\gasa.jpg"},"geometry":{"type":"Point","coordinates":[89.733092587981616,27.810557896346513]}}]}
